@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "486248510926",
+    "firebase_url": "https://video-recorder-bb73a.firebaseio.com",
+    "project_id": "video-recorder-bb73a",
+    "storage_bucket": "video-recorder-bb73a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486248510926:android:b4764b49da11c4881a279f",
+        "android_client_info": {
+          "package_name": "com.example.media_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486248510926-613m23phgsgvejcsnvoedd4u8vlvpga5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPfjOR9quL0JLttukUyEb-FZ4bpelL94w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486248510926-613m23phgsgvejcsnvoedd4u8vlvpga5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
