@@ -33,6 +33,7 @@ dependencies:
   cloud_firestore:
   firebase_storage:
   firebase_core:
+  flutter_clean_architecture:
 
 dev_dependencies:
   flutter_test:
